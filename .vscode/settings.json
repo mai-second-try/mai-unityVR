@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mai-unityVR.sln"
+    "dotnet.defaultSolution": "mai-unityVR.sln",
+    "dotnet.preferCSharpExtension": true
 }
