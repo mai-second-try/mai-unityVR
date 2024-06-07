@@ -96,5 +96,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb7e77c8c52e8924696d8823361c834e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 4
-  delay_destory_time: 6
+  speed: 8
+  delay_destory_time: 8
