@@ -296,6 +296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 4709083527853044180, guid: 5626963a0d1e18a46b4e516c43bfe93b, type: 3}
   spawnPoint: {fileID: 1656226074}
+  stepDistance: 1
 --- !u!4 &5079672901360571
 Transform:
   m_ObjectHideFlags: 0
@@ -7864,6 +7865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabToSpawn: {fileID: 4709083527853044180, guid: 5626963a0d1e18a46b4e516c43bfe93b, type: 3}
   spawnPoint: {fileID: 6665859009761328897}
+  stepDistance: 2
 --- !u!4 &6694044447650507574
 Transform:
   m_ObjectHideFlags: 0
@@ -9791,7 +9793,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &8371578667602778484
 MonoBehaviour:
   m_ObjectHideFlags: 0
