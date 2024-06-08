@@ -110,7 +110,7 @@ public class SpawnPrefabOnKeyPress : MonoBehaviour
         Vector3 position = transform.position;
 
         // вычисляем новую позицию префаба
-        position.x += 2f; // добавляем 2 к координате x
+        // position.x += 2f; // добавляем 2 к координате x
 
         // устанавливаем новую позицию и вращение префаба
         newPrefab.transform.position = position;
