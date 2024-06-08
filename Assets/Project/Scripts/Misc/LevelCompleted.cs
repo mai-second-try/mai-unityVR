@@ -9,7 +9,7 @@ public class LevelCompleted : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene("GameOver");
+            SceneManager.LoadScene("GameOverVR");
         }
     }
 }
